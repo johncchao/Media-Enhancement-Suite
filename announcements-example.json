@@ -1,0 +1,19 @@
+{
+  "announcements": [
+    {
+      "title": "🎉 Media Audit Suite v1.0 Released",
+      "message": "Welcome to the first stable release! This tool helps you audit media assets on your website.",
+      "timestamp": "2026-01-21 10:00:00"
+    },
+    {
+      "title": "🔧 CDN Configuration Tips",
+      "message": "Make sure your HLS streams are properly configured with CORS headers for cross-origin playback.",
+      "timestamp": "2026-01-20 15:30:00"
+    },
+    {
+      "title": "📊 Performance Monitoring",
+      "message": "Check the Network State column to ensure your media assets are loading efficiently.",
+      "timestamp": "2026-01-19 09:15:00"
+    }
+  ]
+}
